@@ -27,6 +27,8 @@
 		AA3B31CC20AA8EB800D5EA2C /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapViewController.swift; path = "../../Cap6-VistasProgramaticas/Cap6-VistasProgramaticas/MapViewController.swift"; sourceTree = "<group>"; };
 		AA3B31CD20AA8EB800D5EA2C /* WKWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WKWebViewController.swift; path = "../../Cap6-VistasProgramaticas/Cap6-VistasProgramaticas/WKWebViewController.swift"; sourceTree = "<group>"; };
 		AA3B31D520AA8EF400D5EA2C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../Cap16-Salvar/Cap16-Salvar/Info.plist"; sourceTree = "<group>"; };
+		AA496C7420AAE2F800D333F4 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = "../../tareas/iOS Programming/Cap4-Dip-Text Input and Delegation/Cap3-Dip-ViewsAndTheViewHierarchy/de.lproj/Main.strings"; sourceTree = "<group>"; };
+		AA496C7520AAE2F800D333F4 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		AAD8F6FE20AAAE3E00E1FFF9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = "../../tareas/iOS Programming/Cap4-Dip-Text Input and Delegation/Cap3-Dip-ViewsAndTheViewHierarchy/en.lproj/Main.strings"; sourceTree = "<group>"; };
 		AAD8F6FF20AAAF6300E1FFF9 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "../../tareas/iOS Programming/Cap4-Dip-Text Input and Delegation/Cap3-Dip-ViewsAndTheViewHierarchy/es-419.lproj/Main.strings"; sourceTree = "<group>"; };
 		AAD8F70020AAAF6300E1FFF9 /* es-419 */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "es-419"; path = "es-419.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
@@ -162,6 +164,7 @@
 			children = (
 				AA3B31C020AA8E8400D5EA2C /* Base */,
 				AAD8F70020AAAF6300E1FFF9 /* es-419 */,
+				AA496C7520AAE2F800D333F4 /* de */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				AA3B31C920AA8EB800D5EA2C /* Base */,
 				AAD8F6FE20AAAE3E00E1FFF9 /* en */,
 				AAD8F6FF20AAAF6300E1FFF9 /* es-419 */,
+				AA496C7420AAE2F800D333F4 /* de */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
