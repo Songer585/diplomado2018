@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AAB469CB20E7D484003615C0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AAB469CA20E7D484003615C0 /* Default-568h@2x.png */; };
 		AACA843C20A8A4DA002DA205 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AACA843B20A8A4DA002DA205 /* AppDelegate.swift */; };
 		AACA844320A8A4DB002DA205 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AACA844220A8A4DB002DA205 /* Assets.xcassets */; };
 		AACA844620A8A4DB002DA205 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AACA844420A8A4DB002DA205 /* LaunchScreen.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AAB469CA20E7D484003615C0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		AACA843820A8A4DA002DA205 /* Cap6-VistasProgramaticas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cap6-VistasProgramaticas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AACA843B20A8A4DA002DA205 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AACA844220A8A4DB002DA205 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		AACA842F20A8A4DA002DA205 = {
 			isa = PBXGroup;
 			children = (
+				AAB469CA20E7D484003615C0 /* Default-568h@2x.png */,
 				AACA843A20A8A4DA002DA205 /* Cap6-VistasProgramaticas */,
 				AACA843920A8A4DA002DA205 /* Products */,
 			);
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AACA845120A8A5E6002DA205 /* Main.storyboard in Resources */,
+				AAB469CB20E7D484003615C0 /* Default-568h@2x.png in Resources */,
 				AACA844620A8A4DB002DA205 /* LaunchScreen.storyboard in Resources */,
 				AACA844320A8A4DB002DA205 /* Assets.xcassets in Resources */,
 			);
